@@ -1,0 +1,38 @@
+kategoria
+Spożywcze
+Chleb
+sztuki
+Masło
+sztuki
+Mleko
+litry
+Żółty ser
+kilogramy
+Jabłka
+sztuki
+kategoria
+Chemia
+Mydło
+sztuki
+Gąbka
+sztuki
+Płyn do mycia naczyń
+litry
+kategoria
+Motoryzacja
+Odświeżacz powietrza
+litry
+Płyn do spryskiwaczy
+litry
+kategoria
+Biurowe
+Taśma klejąca
+metry
+Ołówek
+sztuki
+kategoria
+Sportowe
+Korki
+sztuki
+Spodenki
+sztuki

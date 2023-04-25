@@ -3,12 +3,12 @@ A simple GUI to manage categories, products, and your shopping list.
 
 
 ## Start view
-![start](./images/StartView.jpg)
+![start](./images/StartView.png)
 
 
 ## Adding product to list
-![AddProduct](./images/AddProduct.jpg)
+![AddProduct](./images/AddProduct.png)
 
 
 ## SavingOnDisk
-![SaveOnDisk](./images/SaveOnDisk.jpg)
+![SaveOnDisk](./images/SaveOnDisk.png)

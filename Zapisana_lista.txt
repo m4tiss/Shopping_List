@@ -1,1 +1,12 @@
 Lista zakupów:
+Kategoria: Spożywcze
+-Chleb 2 sztuki
+
+-Mleko 3.5 litra
+
+Kategoria: Biurowe
+-Ołówek 5 sztuk
+
+Kategoria: Chemia
+-Gąbka 4 sztuki
+
